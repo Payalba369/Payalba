@@ -1,2 +1,12 @@
-What is Software?
-Software is a set of programme.
+Que.1	What is Software? What is Software Engineering?
+Ans.1	Software is a set of instruction, data or programs used to operate computers and execute specific tasks. it is opposit of hardware, which describe the physical aspects of a computer. software is a generic term used to refer to application, scripts and programs that run on device. 
+	
+	Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. Software engineers apply engineering principles and knowledge of programming languages to build software solutions for end users.
+
+Que.2	Explain types of Software.
+Ans.2	The two main categories of software are Application Software and System Software.An application is software that fulfills a specific need or performs tasks. System software is designed to run a computer's hardware and provides a platform for applications to run on top of.
+	Application software: The most common type of software, application software is a computer software package that performs a specific function for a user, or in some cases, for another application. An application can be self-contained, or it can be a group of programs that run the application for the user. Examples of modern applications include office suites, graphics software, databases and database management programs, web browsers, word processors, software development tools, image editors and communication platforms.
+	System software:  These software programs are designed to run a computer's application programs and hardware. System software coordinates the activities and functions of the hardware and software. In addition, it controls the operations of the computer hardware and provides an environment or platform for all the other types of software to work in. The OS is the best example of system software; it manages all the other computer programs. Other examples of system software include the firmware, computer language translators and system utilities.
+
+Que.3	What is SDLC?Expalin Each Phase of SDLC.
+Ans.3	
